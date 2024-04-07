@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Automobile Mechanics",
+    "imageSrc": "projects/automech.jpg",
+    "description": "Developed to connects mechanics with customers stranded on busy roads due to vehicle malfunctions.",
+    "skills": ["XML", "JAVA", "Firebase"],
+    "source": "https://github.com/alyDevloper/Auto_Mechanic_App"
+  },
+  {
+    "title": "Instagram Backend Clone",
+    "imageSrc": "projects/insta.png",
+    "description": "The project demonstrates Instagram's backend functionality using  RESTful API with Sequelize for CRUD operations.",
+    "skills": ["Express", "Node JS", "Postgres SQL"],
+    "source": "https://github.com/alyDevloper/Instagram_Clone_Backend"
+  },
+  {
+    "title": "Library Managment System",
+    "imageSrc": "projects/library.jpg",
+    "description": "Developed for library record-keeping, such as deletion, insertion, and searching books.",
+    "skills": ["C++", "OOP", "Dev C++"],
+    "source": "https://www.github.com"
+  }
+]

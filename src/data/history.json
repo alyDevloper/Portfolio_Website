@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Mern Stack Intern",
+    "organisation": "Knowledge Streams",
+    "startDate": "Jan, 2024",
+    "endDate": "April, 2024",
+    "experiences": [
+      "Developed responsive UIs with React.js and Tailwind CSS.",
+      "Implemented RESTful APIs and server logic with Node.js and Express.js."
+    ],
+    "imageSrc": "history/kstream.jpg"
+  },
+  {
+    "role": "Front-end Intern",
+    "organisation": "Hicon Solutions",
+    "startDate": "July, 2022",
+    "endDate": "Sep, 2022",
+    "experiences": [
+      "Design and develop front-end.",
+      "Get hands on fundamentals of React JS ."
+    ],
+    "imageSrc": "history/hicon.jpg"
+  }
+]
