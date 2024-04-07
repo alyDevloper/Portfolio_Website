@@ -34,7 +34,7 @@ export const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-        <img src="../assets/nav/logo.png" alt="Logo" />
+        <img src="/logo.png" alt="Logo" />
       </a>
       <div className={styles.menu}>
         <img
